@@ -1,6 +1,6 @@
 # ocr-image — 本地图片文字识别
 
-基于 RapidOCR 的纯本地图片文字识别工具，为 Claude Code 提供**非多模态模型的图片理解能力**。
+基于 RapidOCR 的纯本地图片文字识别工具，为 Claude Code +deepseek 提供**非多模态模型的图片理解能力**。
 
 ## 解决的问题
 
