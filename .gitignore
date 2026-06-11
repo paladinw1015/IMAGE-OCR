@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Models (auto-downloaded)
+*.onnx
+
+# IDE
+.vscode/
+
+# Temp
+*.tmp
